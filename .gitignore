@@ -1,0 +1,12 @@
+screenshots/
+.mixin.out/
+crash-reports/
+data/
+debug/
+downloads/
+local/
+logs/
+.fabric/
+config/
+shaderpacks/*
+!shaderpacks/*.zip

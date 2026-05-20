@@ -1,0 +1,43 @@
+{
+  "stats": {
+    "minecraft:dropped": {
+      "minecraft:obsidian": 1
+    },
+    "minecraft:used": {
+      "minecraft:oak_trapdoor": 1,
+      "minecraft:smooth_sandstone": 6,
+      "minecraft:soul_sand": 6,
+      "minecraft:water_bucket": 34,
+      "minecraft:flint_and_steel": 3,
+      "minecraft:oak_pressure_plate": 1,
+      "minecraft:ender_pearl": 7,
+      "minecraft:acacia_leaves": 1,
+      "minecraft:obsidian": 44,
+      "minecraft:fishing_rod": 3
+    },
+    "minecraft:picked_up": {
+      "minecraft:obsidian": 1
+    },
+    "minecraft:custom": {
+      "minecraft:talked_to_villager": 1,
+      "minecraft:time_since_rest": 42837,
+      "minecraft:walk_one_cm": 25025,
+      "minecraft:leave_game": 5,
+      "minecraft:walk_under_water_one_cm": 17518,
+      "minecraft:play_time": 42837,
+      "minecraft:jump": 61,
+      "minecraft:time_since_death": 42837,
+      "minecraft:drop": 1,
+      "minecraft:open_barrel": 8,
+      "minecraft:sprint_one_cm": 38642,
+      "minecraft:open_chest": 24,
+      "minecraft:total_world_time": 47908,
+      "minecraft:fly_one_cm": 1113925,
+      "minecraft:walk_on_water_one_cm": 4489,
+      "minecraft:crouch_one_cm": 1220,
+      "minecraft:sneak_time": 5045,
+      "minecraft:climb_one_cm": 3606
+    }
+  },
+  "DataVersion": 4671
+}
